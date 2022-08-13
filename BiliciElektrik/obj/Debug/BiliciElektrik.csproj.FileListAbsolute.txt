@@ -1,0 +1,65 @@
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.exe.config
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.exe
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.pdb
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.csprojAssemblyReference.cache
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Form1.resources
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Properties.Resources.resources
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.GenerateResource.cache
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.exe
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.pdb
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Form2.resources
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.settings.resources
+C:\Users\Mr Halim\source\repos\BiliciElektrik\BiliciElektrik\bin\Debug\Tumveriler.mdb
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\bin\Debug\Tumveriler.mdb
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.exe.config
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.exe
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\bin\Debug\BiliciElektrik.pdb
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.csprojAssemblyReference.cache
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Form1.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Form2.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Properties.Resources.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.settings.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.GenerateResource.cache
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.exe
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.pdb
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.CoreCompileInputs.cache
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.sfr.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.depo_frm.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.ciktial_frm.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.Verigirisi_frm.resources
+E:\Hizir Ali\BiliciElektrik\BiliciElektrik\obj\Debug\BiliciElektrik.islemler_frm.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\bin\Debug\BiliciElektrik.exe.config
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\bin\Debug\BiliciElektrik.exe
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\bin\Debug\BiliciElektrik.pdb
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.AssemblyReference.cache
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.ciktial_frm.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.depo_frm.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Form1.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Form2.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.islemler_frm.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Properties.Resources.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.settings.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.sfr.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Verigirisi_frm.resources
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.GenerateResource.cache
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.CoreCompileInputs.cache
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.exe
+D:\Z_Eski PCden\Hizir Ali\v2\BiliciElektrik\obj\Debug\BiliciElektrik.pdb
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\bin\Debug\BiliciElektrik.exe.config
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\bin\Debug\BiliciElektrik.exe
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\bin\Debug\BiliciElektrik.pdb
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.AssemblyReference.cache
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.ciktial_frm.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.depo_frm.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Form1.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Form2.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.islemler_frm.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Properties.Resources.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.settings.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.sfr.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.Verigirisi_frm.resources
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.GenerateResource.cache
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.csproj.CoreCompileInputs.cache
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.exe
+C:\Users\Halim\Desktop\4-Depo Uygulamam\v2\BiliciElektrik\obj\Debug\BiliciElektrik.pdb
